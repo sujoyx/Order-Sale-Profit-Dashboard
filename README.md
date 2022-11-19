@@ -36,6 +36,8 @@ This dataset contains a Excel table with 7,992 records & 16 columns
 
 🧙‍♂️ For the design part I used Microsoft PowerPoint
 
+Power Bi file click [HERE](https://github.com/sujoyx/Order-Sale-Profit-Dashboard/blob/main/Order_Sale_Profit_Dashboard.pbix?raw=true)
+
 # 📊 Visualization
 
 ![Power_bi_Project_001_page-0001](https://user-images.githubusercontent.com/118610214/202861729-c4e77a79-bbe7-4890-8c0a-0978864adb17.jpg)
